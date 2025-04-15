@@ -1,1 +1,7 @@
-list
+The following libraries are required :
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+gradio
