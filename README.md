@@ -20,5 +20,5 @@ The Gradio interface takes 6 input features and returns:
 - Matplotlib, Seaborn
 - Gradio
 
-##Authors:
+## Authors:
 Krisha Mangukiya & Krupa Jantrania 
